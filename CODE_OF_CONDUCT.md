@@ -1,25 +1,30 @@
-# Code of Conduct for AgriSetu
+# Contributor Covenant Code of Conduct
 
-## Community Guidelines
+## Our Pledge
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, race, religion, or sexual identity and orientation.
 
-At AgriSetu, we are committed to fostering a welcoming and inclusive community. We expect all members of our community to conduct themselves in a respectful manner. Here are some guidelines to help maintain a healthy environment:
+## Our Standards
+Examples of behavior that contributes to creating a positive environment include:
 
-- **Be Respectful:** Treat everyone with respect. We value diverse opinions, backgrounds, and perspectives.
-- **Engage Constructively:** Provide constructive criticism and feedback. Focus on the code and ideas, not individuals.
-- **Be Inclusive:** Encourage participation from all community members, especially those from underrepresented groups.
-- **No Harassment:** Harassment in any form, including comments that are derogatory, offensive, or intimidating, is not tolerated.
+- Using welcoming and inclusive language
+- Being respectful of differing viewpoints and experiences
+- Gracefully accepting constructive criticism
+- Focusing on what is best for the community
+- Showing empathy towards other community members
 
-## Reporting Issues
+Examples of unacceptable behavior by participants include:
 
-If you encounter any behavior that goes against our community guidelines, please report it to the maintainers of the project. We take all reports seriously and will act accordingly.
+- The use of sexualized language or imagery and unwelcome sexual attention or advances
+- Trolling, insulting or derogatory comments, and personal or political attacks
+- Public or private harassment
+- Publishing others' private information, such as a physical or electronic address, without explicit permission
+- Other conduct which could reasonably be considered inappropriate in a professional setting
 
-## Intellectual Property Protection Notice
+## Enforcement Responsibilities
+Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
-By contributing to the AgriSetu project, you agree that:
+## Enforcement
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [insert contact information]. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. 
 
-- You are granting us an irrevocable, perpetual, non-exclusive, worldwide, royalty-free, sublicensable license to use your contributions under the same license as the project you are contributing to.
-- You warrant that your contributions are your original work and do not violate any intellectual property rights or any applicable laws.
-
-Together, let's make AgriSetu a peaceful, productive, and innovative space!  
-
-Thank you for being a part of our community!
+## Acknowledgment
+This Code of Conduct is adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
